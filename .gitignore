@@ -21,3 +21,6 @@ venv.bak/
 # IDEs
 .idea/
 .vscode/
+
+# Ignore database file
+your_db_name
